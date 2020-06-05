@@ -3,3 +3,6 @@ https://git-scm.com/book/zh/v2
 
 在线实战
 https://learngitbranching.js.org/?locale=zh_CN
+
+test git status
+tets git status
